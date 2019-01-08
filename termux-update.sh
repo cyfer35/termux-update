@@ -15,4 +15,4 @@ pkg install perl -y
 apt update
 apt upgrade -y
 clear
-figlet Penguen
+figlet Pofig
